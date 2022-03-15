@@ -37,4 +37,4 @@ async def bj(ctx):
 
 # https://nekos.life/api/v2/endpoints
 
-bot.run("ODkyNTA0MTEwNzA2ODUxODYw.YVN3OQ.ncdVQ7ZCcaV67zhYIFqUsiXPvSo")
+bot.run("")
